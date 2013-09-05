@@ -1,4 +1,4 @@
-package br.org.guddi.behave;
+package behave;
 
 import br.gov.frameworkdemoiselle.behave.annotation.ElementLocatorType;
 import br.gov.frameworkdemoiselle.behave.annotation.ElementMap;

@@ -1,4 +1,4 @@
-package br.org.guddi.behave;
+package behave;
 
 import br.gov.frameworkdemoiselle.behave.parser.Step;
 import br.gov.frameworkdemoiselle.behave.parser.jbehave.CommonSteps;

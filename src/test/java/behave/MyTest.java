@@ -1,14 +1,14 @@
-package org.guddi.behave;
+package behave;
 
 import org.junit.Test;
 
 import br.gov.frameworkdemoiselle.behave.controller.BehaveContext;
 
-public class CalcTest {
+public class MyTest {
 
 	private BehaveContext eng = null;
 
-	public CalcTest() {
+	public MyTest() {
 		eng = BehaveContext.getInstance();
 		eng.addSteps(new MySteps());
 	}
